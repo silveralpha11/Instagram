@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "636667769102",
+    "firebase_url": "https://social-media-db094.firebaseio.com",
+    "project_id": "social-media-db094",
+    "storage_bucket": "social-media-db094.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636667769102:android:878f017810d3024049a75f",
+        "android_client_info": {
+          "package_name": "com.adith.smash.x.instagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636667769102-jeakhk5acmsboln42qb5vo8fil5i105o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adith.smash.x.instagram",
+            "certificate_hash": "5adebb67f1d57e1bf22442f1871e98e9c766a0ae"
+          }
+        },
+        {
+          "client_id": "636667769102-n9onn8c91hrihljhpceqdjcupv24s4mf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPYPAP3MITMDEvymcBA8nPE2XrH5RveRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636667769102-n9onn8c91hrihljhpceqdjcupv24s4mf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
